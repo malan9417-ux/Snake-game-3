@@ -1,0 +1,9 @@
+snake-game/
+├── index.html
+├── game.js
+├── style.css
+├── manifest.json
+└── icons/
+    ├── icon-192.png
+    ├── icon-512.png
+    └── apple-touch-icon.png
